@@ -2,12 +2,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190801 at Tue Feb 18 22:39:31 2020
+Created by FontForge 20190801 at Sat Mar 21 05:09:12 2020
  By Leevi
-Copyright 2020 Acmion (https://github.com/Acmion/Negatronic)
+Copyright 2020 Adamantica (https://github.com/Adamantica/Negatronic)
 </metadata>
 <defs>
-<font id="Negatronic-Bold" horiz-adv-x="604" >
+<font id="NegatronicBold" horiz-adv-x="604" >
   <font-face 
     font-family="Negatronic"
     font-weight="700"
@@ -21,7 +21,7 @@ Copyright 2020 Acmion (https://github.com/Acmion/Negatronic)
     bbox="-44 -231 1013 847"
     underline-thickness="50"
     underline-position="-100"
-    unicode-range="U+000D-E001"
+    unicode-range="U+000D-007E"
   />
     <missing-glyph />
     <glyph glyph-name="NULL" horiz-adv-x="0" 
@@ -41,7 +41,7 @@ q0 29 -21 47t-56 18h-249v-176h234z" />
 d="M164.5 33q-58.5 33 -90.5 93.5t-32 139.5v168q0 79 32.5 139.5t92 93.5t137.5 33h106q75 0 132 -32t88.5 -89.5t31.5 -133.5h-136q0 60 -32 96.5t-84 36.5h-106q-56 0 -90 -41.5t-34 -108.5v-156q0 -67 33 -108.5t87 -41.5h108q53 0 86.5 41t33.5 108h136
 q0 -81 -32 -142.5t-90 -95t-134 -33.5h-108q-77 0 -135.5 33z" />
     <glyph glyph-name="D" unicode="D" horiz-adv-x="702" 
-d="M62 700h334q80 0 140.5 -30t94 -85t33.5 -127v-196q0 -129 -115.5 -195.5t-245.5 -66.5h-241v700zM396 122q64 0 97 37t33 109v184q0 57 -37 91.5t-97 34.5h-192v-456h196z" />
+d="M62 0v700h334q80 0 140.5 -30t94 -85t33.5 -127v-196q0 -129 -67 -195.5t-197 -66.5h-241h-97zM396 122q64 0 97 37t33 109v184q0 57 -37 91.5t-97 34.5h-192v-456h196z" />
     <glyph glyph-name="E" unicode="E" horiz-adv-x="628" 
 d="M62 700h534v-120h-396v-162h366v-120h-366v-178h396v-120h-534v700z" />
     <glyph glyph-name="F" unicode="F" 

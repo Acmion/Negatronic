@@ -1,0 +1,9 @@
+@font-face 
+{
+    font-family: "Negatronic";
+    src: url("../Fonts/Negatronic.woff2?v=1") format("woff2"),
+         url("../Fonts/Negatronic.woff?v=1") format("woff"),
+         url('../Fonts/Negatronic.ttf?v=1') format('truetype'), 
+         url('../Fonts/Negatronic.svg?v=1') format('svg'); 
+    font-display: swap;
+}
