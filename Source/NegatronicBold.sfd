@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
-FontName: Negatronic-Bold
+FontName: NegatronicBold
 FullName: Negatronic Bold
 FamilyName: Negatronic
 Weight: Bold
-Copyright: Copyright 2020 Acmion (https://github.com/Acmion/Negatronic)
+Copyright: Copyright 2020 Adamantica (https://github.com/Adamantica/Negatronic)
 Version: 1.000; ttfautohint (v1.6)
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1532538922
-ModificationTime: 1582058371
+ModificationTime: 1584760152
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -424,7 +424,6 @@ EndShort
 LangName: 1033 "" "" "" "" "" "Version 1.000; ttfautohint (v1.6)" "" "" "Acmion" "Acmion" "" "https://acmion.com" "https://acmion.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: Custom
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -605,7 +604,7 @@ StartChar: D
 Encoding: 38 68 6
 Width: 702
 GlyphClass: 2
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -630,6 +629,7 @@ SplineSet
  200 122 l 1,21,-1
  396 122 l 2,12,13
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: E
@@ -1902,7 +1902,7 @@ SplineSet
  625 500 l 2,40,0
  701 500 701 500 747 450.5 c 128,-1,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Kerns2: 37 -10 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
 EndChar
 
@@ -1938,7 +1938,7 @@ SplineSet
  58 0 l 1,22,-1
  58 500 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: o
